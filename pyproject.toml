@@ -1,7 +1,7 @@
 [project]
-name = "file-renaming"
+name = "DeepRename"
 version = "0.1.0"
-description = "使用DeepSeek模型对文件进行重命名"
+description = "使用LLM对文件进行智能重命名"
 requires-python = ">=3.11"
 dependencies = [
     "docx2txt==0.9",
