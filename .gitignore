@@ -1,0 +1,8 @@
+/test
+/dist
+/build
+*.spec
+*.pyc
+~$教程.docx
+教程.docx
+教程.pdf

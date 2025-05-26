@@ -1,0 +1,14 @@
+[project]
+name = "file-renaming"
+version = "0.1.0"
+description = "使用DeepSeek模型对文件进行重命名"
+requires-python = ">=3.11"
+dependencies = [
+    "docx2txt==0.9",
+    "openai",
+    "openpyxl>=3.1.5",
+    "pptx2md==2.0.6",
+    "pyinstaller>=6.13.0",
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.1.0",
+]
