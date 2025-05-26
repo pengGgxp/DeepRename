@@ -1,6 +1,6 @@
-# README
+# DeppRename
 
-该项目基于DeepSeek实现读取文件内容并对文件进行重命名的功能。
+该项目基于LLM(DeepSeek)实现读取文件内容并对文件进行重命名的功能。
 
 # 当前支持文件类型
 
@@ -13,6 +13,7 @@
 ## 运行环境
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/release/python-311/)
+[![UV 0.6.17+](https://img.shields.io/badge/uv-0.6.17+-red)]()
 
 ## 运行方法
 

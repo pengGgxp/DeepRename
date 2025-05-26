@@ -45,3 +45,4 @@ if __name__ == "__main__":
         print(f"开始处理目录: {target_directory}")
         asyncio.run(rename_files_in_directory(target_directory))
         print("所有文件处理完毕。")
+
